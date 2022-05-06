@@ -8,7 +8,7 @@ And no you do not need ColdBox to use this product.  It gives you a server. AND 
 box
 server start --console
 ```
-What are the important items? You will need to setup this up.javaSettings in your Application.cfc  It should look something like this.  
+What are the important items? You will need to setup this.javaSettings in your Application.cfc  It should look something like this.  
 ```
 this.javaSettings = {LoadPaths = ["lib"],reloadOnChange=true,watchInterval=30};
 ```
