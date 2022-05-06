@@ -2,7 +2,8 @@ A colleague recently asked how could he run Barbecue Barcode with Lucee.  After 
 
 This is a POC to run Barbecue Barcode in Adobe ColdFusion or Lucee.  
 
-Just open a shell inside the folder that you unzipped. Now run this Commandbox command.  
+Just open a shell inside the folder that you unzipped. Now run this Commandbox command. If you are not familiar with COmmandbox you can read about it here. https://www.ortussolutions.com/products/commandbox  
+And no you do not need ColdBox to use this product.  It gives you a server. AND SO MUCH MORE...
 ```
 box
 server start --console
