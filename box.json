@@ -1,0 +1,57 @@
+{
+    "name":"Application-cfc",
+    "version":"1.0.0",
+    "author":"George Murphy",
+    "location":"murpg/Application.cfc",
+    "homepage":"",
+    "documentation":"",
+    "repository":{
+        "type":"Git",
+        "URL":""
+    },
+    "bugs":"",
+    "slug":"application-cfc",
+    "createPackageDirectory":false,
+    "shortDescription":"A Generic Application.cfc",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"projects",
+    "keywords":[],
+    "private":false,
+    "projectURL":"",
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "contributors":[],
+    "dependencies":{},
+    "devDependencies":{},
+    "installPaths":{},
+    "scripts":{},
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "testbox":{
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "labels":"",
+        "reporter":"",
+        "bundles":"",
+        "recurse":true,
+        "directory":"tests.specs",
+        "testBundles":"",
+        "testSuites":"",
+        "testSpecs":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    }
+}
